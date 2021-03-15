@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there 👋  
+
+我是章萧醇，一名野路子出生的设计师。这里是我的个人博客：[zhangxiaochun.com](https://www.zhangxiaochun.com/)，
+分享一些设计或者设计前端边界的内容，还有一些小技巧，内容比较杂，如果你刚好对我的内容感兴趣的话，我觉得我们可以做朋友。😄
 
 <!--
 **xiaochunjimmy/xiaochunjimmy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
