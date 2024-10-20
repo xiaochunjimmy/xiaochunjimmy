@@ -1,7 +1,10 @@
 ### Hi there 👋  
 
-我是章萧醇，一名野路子出生的设计师。这里是我的个人博客：[zhangxiaochun.com](https://www.zhangxiaochun.com/)，
-分享一些设计或者设计前端边界的内容，还有一些小技巧，内容比较杂，如果你刚好对我的内容感兴趣的话，我觉得我们可以做朋友。😄
+我是章萧醇 (Jimmy Cheung)，一名野路子出生的设计师，先后在创业团队、腾讯会议、字节飞书任职，后跳出舒适区转型产品，在一家硬件钱包团队锻炼产品、运营、推广、项目管理等能力。现已辞职全身心投入自己的独立开发事业，期望可以通过小而美的独立产品团队模式养活自己和家人，梦想还很遥远，探索刚刚启程！
+
+目前正在聚焦打造的项目： [Somno 元气睡眠 - 一款 iOS 睡眠监测软件](https://apps.apple.com/app/6504674988)。
+
+这里是我的：[X(Twitter)](https://x.com/remixdesigner)，分享一些设计或者偏视觉表现研发相关的内容，可能还有一些设计小技巧，内容比较杂，如果你刚好对我的内容感兴趣的话，我觉得我们可以做朋友。😄
 
 <!--
 **xiaochunjimmy/xiaochunjimmy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
